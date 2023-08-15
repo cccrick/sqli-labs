@@ -4,10 +4,8 @@
 $dbuser ='root';
 $dbpass ='';
 $dbname ="security";
-$host = 'localhost';
+$host = 'db';
 $dbname1 = "challenges";
-
-
 
 ?>
 
